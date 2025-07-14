@@ -1,5 +1,4 @@
 # Vocalog-VX
-Vocalog VX is an offline pipeline that transforms customer voice and chat conversations into summaries, topics, and sentiment insights — all locally, with zero cloud dependency.
 
 **Vocalog VX** (Voice & Chat Intelligence) is a privacy-first, fully offline pipeline for extracting insight from **customer conversations** — whether they come from **call center recordings** or **chatbot logs**.
 
@@ -7,9 +6,9 @@ It transforms raw audio and chat interactions into structured summaries, topic h
 
 ---
 
-## 🧭 Why Vocalog VX?
+## Why Vocalog VX?
 
-### ✅ Unified:
+### Unified:
 Handles **both audio and text** seamlessly — from voice calls (`.wav`, `.mp3`, etc.) to JSON/txt chatbot exports.
 
 ### Private by Design:
@@ -34,20 +33,8 @@ Extracts:
 - Training data generation for AI/chatbots
 - Internal tools for CX and analytics teams
 
----
 
 
-
-
-# 🎧 Call Processing Pipeline
-
-This project processes **customer service call recordings or transcripts** and extracts useful insights like:
-- Speaker diarization
-- Call transcription (ASR)
-- Structured conversation formatting
-- Summarization
-- Topic extraction
-- Sentiment analysis
 
 ---
 
